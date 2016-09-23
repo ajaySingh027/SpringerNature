@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13180" started-at="2016-09-23T17:19:54Z" finished-at="2016-09-23T17:20:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13180" started-at="2016-09-23T17:19:54Z" finished-at="2016-09-23T17:20:08Z">
+      <class name="test.Search_invalid_data">
+        <test-method status="PASS" signature="Search_valid_data()[pri:0, instance:test.Search_invalid_data@7cd62f43]" name="Search_valid_data" duration-ms="13160" started-at="2016-09-23T22:49:55Z" finished-at="2016-09-23T22:50:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search_valid_data -->
+      </class> <!-- test.Search_invalid_data -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
